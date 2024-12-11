@@ -1,0 +1,20 @@
+[tc14151@VLSI03 Traffic]$ more sim.log 
+Command: /home/tc14151/AlbertHome/Class/Final/Traffic/./simv -l sim.log +vcs+lic+wait
+Chronologic VCS simulator copyright 1991-2023
+Contains Synopsys proprietary information.
+Compiler version U-2023.03-SP2_Full64; Runtime version U-2023.03-SP2_Full64;  Dec  6 01:52 2024
+VCD+ Writer U-2023.03-SP2_Full64 Copyright (c) 1991-2023 by Synopsys Inc.
+time=                   0 ns_green=0 ns_yellow=0 ns_red=1 w_green=0 ew_yellow=0 ew_red=1 
+time=                  20 ns_green=1 ns_yellow=0 ns_red=0 w_green=0 ew_yellow=0 ew_red=1 
+time=                1290 ns_green=0 ns_yellow=1 ns_red=0 w_green=0 ew_yellow=0 ew_red=1 
+time=                1370 ns_green=0 ns_yellow=0 ns_red=1 w_green=1 ew_yellow=0 ew_red=0 
+time=                2630 ns_green=0 ns_yellow=0 ns_red=1 w_green=0 ew_yellow=1 ew_red=0 
+time=                2690 ns_green=1 ns_yellow=0 ns_red=0 w_green=0 ew_yellow=0 ew_red=1 
+time=                3950 ns_green=0 ns_yellow=1 ns_red=0 w_green=0 ew_yellow=0 ew_red=1 
+time=                4010 ns_green=0 ns_yellow=0 ns_red=1 w_green=1 ew_yellow=0 ew_red=0 
+$finish called from file "tb_traffic.v", line 40.
+$finish at simulation time                 5020
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 5020 ps
+CPU Time:      0.370 seconds;       Data structure size:   0.0Mb
+Fri Dec  6 01:52:05 2024
